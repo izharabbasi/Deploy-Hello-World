@@ -152,22 +152,23 @@
 // var s_cities = [cities[2],cities[1],cities[3]];
 // console.log(s_cities);
 
-var color =  ['red', 'blue', 'green', 'black', 'pink ' , "</br>"];
-document.write(color);
+// var color =  ['red', 'blue', 'green', 'black', 'pink ' , "</br>"];
+// document.write(color);
 
-color.unshift(prompt("Please enter color that you want to add in beggining"));
-document.write(color);
+// color.unshift(prompt("Please enter color that you want to add in beggining"));
+// document.write(color);
 
-color.unshift(prompt("Please enter color that you want to add in beggining"));
-document.write(color);
+// color.unshift(prompt("Please enter color that you want to add in beggining"));
+// document.write(color);
 
-color.unshift(prompt("Please enter color that you want to add in beggining"));
-document.write(color);
+// color.unshift(prompt("Please enter color that you want to add in beggining"));
+// document.write(color);
 
-color.shift();
+// color.shift();
 
-document.write(color)
+// document.write(color)
 
-color.pop();
+// color.pop();
 
-document.write(color)
+// document.write(color)
+
